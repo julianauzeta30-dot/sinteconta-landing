@@ -1,6 +1,6 @@
 # Revisión de identidad y dirección visual
 
-- [ ] Exportar el proyecto final de Sinteconta a GitHub.
+- [x] Exportar el proyecto final de Sinteconta a GitHub.
 
 - [x] Eliminar los rótulos redundantes de registro y mantener solo los nombres de sección.
 
