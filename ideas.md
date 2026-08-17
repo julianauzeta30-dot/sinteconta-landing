@@ -73,3 +73,13 @@ Un símbolo abstracto de **dos columnas contables que se alinean para formar una
 - **Regla tipográfica:** DM Serif Display lidera los titulares editoriales, pero la cursiva se limita a una frase decisiva por sección. Manrope, las cifras, las etiquetas y las breves notas de evidencia sostienen la autoridad financiera.
 - **Regla de motivo distintivo:** Toda sección mayor incorpora al menos una señal explícita de auditoría documental: línea reglada, número de caso, marco de registro, anotación conectada o sello de claridad. La página debe leerse como una pieza de trabajo reconciliada, no como una colección de tarjetas.
 - **Regla de imaginería:** La fotografía y las piezas abstractas representan evidencia en proceso —documentos, revisión, vidrio, capas de expediente o decisiones ejecutivas— y nunca estilo de vida corporativo genérico.
+
+## Actualización de identidad oficial
+
+La revisión se alinea con el manual visual entregado por Sinteconta Asesores. El sistema deja de usar el símbolo experimental y adopta las versiones oficiales de logotipo horizontal e isologo. La paleta obligatoria se compone de **Azul noche #0B2D5C**, **Azul principal #1E6BC7**, **Azul claro #71A9E6**, **Azul niebla #DCEBFA** y **blanco #FFFFFF**.
+
+**Avenir Next** se utiliza como tipografía de marca y titulares; **Helvetica Neue** sostiene cuerpo, navegación y microcopy, con alternativas de sistema cuando estas fuentes no estén instaladas. La dirección visual evoluciona hacia una firma financiera cinematográfica: hero en video de pantalla completa, superposición sobria de contenido, una secuencia fotográfica por sección y movimiento que acompaña decisiones, no efectos decorativos.
+
+### Decisiones de revisión visual — Dossier ejecutivo
+
+Cada sección mayor incorpora una señal visible de expediente: línea reglada, número de caso, marco de registro, sello de claridad o bloque de evidencia. La imagen cuenta procesos de revisión, no escenas corporativas intercambiables: documentos marcados, capas de vidrio, gestos de análisis y decisiones en curso. El **Azul noche** mantiene la autoridad dominante; el azul claro se reserva para referencias, numerales, puntos de orientación y acciones relevantes. Los CTA deben nombrar un siguiente paso práctico, como diagnóstico, punto de partida, revisión o agenda.
