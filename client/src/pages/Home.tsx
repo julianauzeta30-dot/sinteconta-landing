@@ -226,7 +226,7 @@ export default function Home() {
         <section id="servicios" className="section section-white services-section">
           <div className="page-shell">
             <motion.div {...motionProps} className="section-heading split-heading">
-              <div><p className="eyebrow">Servicios</p><p className="section-register">REGISTRO 01 · FRENTES DE APOYO</p><h2>Todo lo que necesitas para <span>tomar el control.</span></h2></div>
+              <div><p className="eyebrow">Servicios</p><h2>Todo lo que necesitas para <span>tomar el control.</span></h2></div>
               <div className="heading-evidence"><b>03</b><p>Frentes articulados para llevar la información financiera a la decisión.</p></div>
             </motion.div>
 
@@ -261,7 +261,7 @@ export default function Home() {
               <div className="photo-marker photo-marker-bottom"><span>02</span><p>PROCESOS CLAROS<br />QUE SÍ SE SOSTIENEN.</p></div>
             </motion.div>
             <motion.div {...motionProps} transition={{ duration: 0.62, delay: 0.1 }} className="narrative-copy">
-              <p className="eyebrow">Quiénes somos</p><p className="section-register">REGISTRO 02 · FORMA DE TRABAJAR</p>
+              <p className="eyebrow">Quiénes somos</p>
               <h2>La mejor asesoría financiera empieza por <span>escuchar bien.</span></h2>
               <p>Detrás de cada cierre, obligación o novedad hay una empresa buscando estabilidad para crecer. En Sinteconta trabajamos desde esa realidad: la de quienes necesitan respuestas claras, procesos ordenados y un equipo que acompaña de cerca.</p>
               <div className="principle-list">
@@ -276,7 +276,7 @@ export default function Home() {
         <section id="equipo" className="section section-navy team-section">
           <div className="page-shell team-layout">
             <motion.div {...motionProps} className="team-copy">
-              <p className="eyebrow eyebrow-light">Nuestro equipo</p><p className="section-register section-register-light">REGISTRO 03 · RED DE ESPECIALISTAS</p>
+              <p className="eyebrow eyebrow-light">Nuestro equipo</p>
               <h2>Expertos que ven el detalle y entienden <span>el conjunto.</span></h2>
               <p>Un equipo articulado para conectar la realidad contable, tributaria y laboral de tu empresa con sus próximas decisiones.</p>
               <div className="team-roles"><div className="team-register"><span>SELLO DE CLARIDAD</span><span>SC / 03</span></div>
@@ -294,7 +294,7 @@ export default function Home() {
 
         <section className="section promotion-section">
           <div className="page-shell">
-            <motion.div {...motionProps} className="section-heading promotion-heading"><div><p className="eyebrow">Conversaciones que abren camino</p><p className="section-register">REGISTRO 04 · PUNTO DE PARTIDA</p><h2>Un primer paso claro puede cambiar <span>todo lo que sigue.</span></h2></div></motion.div>
+            <motion.div {...motionProps} className="section-heading promotion-heading"><div><p className="eyebrow">Conversaciones que abren camino</p><h2>Un primer paso claro puede cambiar <span>todo lo que sigue.</span></h2></div></motion.div>
             <Carousel opts={{ loop: true, align: "start" }} className="promotion-carousel">
               <CarouselContent>
                 <CarouselItem><article className="promotion-card promotion-image-card"><img src="/manus-storage/sinteconta-contacto_57177531.jpg" alt="Empresario revisando un momento de decisión" /><div /><div className="promotion-content"><p>DIAGNÓSTICO INICIAL · REF. 04</p><h3>Hagamos visible el punto de partida.</h3><span>Una conversación para entender el reto, ordenar prioridades y definir una ruta de acción.</span><button type="button" onClick={() => navigate("contacto")}>Definir mi punto de partida <ArrowRight size={16} /></button></div></article></CarouselItem>
@@ -307,7 +307,7 @@ export default function Home() {
 
         <section id="preguntas" className="section section-white faq-section">
           <div className="page-shell faq-layout">
-            <motion.div {...motionProps} className="faq-intro"><p className="eyebrow">Preguntas frecuentes</p><p className="section-register">REGISTRO 05 · RESPUESTAS CLARAS</p><h2>La claridad también empieza por una <span>buena pregunta.</span></h2><p>Si no ves tu situación aquí, cuéntanosla. La conversación inicial está pensada para entender el contexto antes de proponer una respuesta.</p><button type="button" className="text-button" onClick={() => navigate("contacto")}>Revisar mi situación <MessageCircle size={17} /></button></motion.div>
+            <motion.div {...motionProps} className="faq-intro"><p className="eyebrow">Preguntas frecuentes</p><h2>La claridad también empieza por una <span>buena pregunta.</span></h2><p>Si no ves tu situación aquí, cuéntanosla. La conversación inicial está pensada para entender el contexto antes de proponer una respuesta.</p><button type="button" className="text-button" onClick={() => navigate("contacto")}>Revisar mi situación <MessageCircle size={17} /></button></motion.div>
             <motion.div {...motionProps} transition={{ duration: 0.62, delay: 0.1 }}>
               <Accordion type="single" collapsible className="faq-list">
                 {faqs.map((faq, index) => <AccordionItem key={faq.question} value={`faq-${index}`}><AccordionTrigger><span><b>0{index + 1}</b>{faq.question}</span></AccordionTrigger><AccordionContent>{faq.answer}</AccordionContent></AccordionItem>)}
@@ -319,7 +319,7 @@ export default function Home() {
         <section id="contacto" className="contact-section">
           <div className="contact-backdrop" />
           <div className="page-shell contact-layout">
-            <motion.div {...motionProps} className="contact-copy"><p className="eyebrow eyebrow-light">Contacto</p><p className="section-register section-register-light">REGISTRO 06 · AGENDA DE DIAGNÓSTICO</p><h2>El siguiente paso puede ser una <span>conversación.</span></h2><p>Cuéntanos qué está pasando en tu empresa. Empezaremos por entender lo que quieres ordenar, anticipar o hacer visible.</p><div className="contact-mark"><img src="/manus-storage/sinteconta-isologo-claro_2e64094f.png" alt="Isologo Sinteconta" /><span>Tu ayuda<br />contable y financiera.</span></div></motion.div>
+            <motion.div {...motionProps} className="contact-copy"><p className="eyebrow eyebrow-light">Contacto</p><h2>El siguiente paso puede ser una <span>conversación.</span></h2><p>Cuéntanos qué está pasando en tu empresa. Empezaremos por entender lo que quieres ordenar, anticipar o hacer visible.</p><div className="contact-mark"><img src="/manus-storage/sinteconta-isologo-claro_2e64094f.png" alt="Isologo Sinteconta" /><span>Tu ayuda<br />contable y financiera.</span></div></motion.div>
             <motion.form {...motionProps} transition={{ duration: 0.62, delay: 0.1 }} className="contact-form" onSubmit={(event) => { event.preventDefault(); setFormSent(true); }}>
               <div className="form-row"><label>Tu nombre<input required name="name" placeholder="¿Cómo te llamas?" /></label><label>Correo de trabajo<input required type="email" name="email" placeholder="nombre@empresa.com" /></label></div>
               <label>Tu empresa<input required name="company" placeholder="Nombre de tu empresa" /></label>

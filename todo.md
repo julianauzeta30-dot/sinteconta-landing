@@ -1,5 +1,7 @@
 # Revisión de identidad y dirección visual
 
+- [x] Eliminar los rótulos redundantes de registro y mantener solo los nombres de sección.
+
 - [x] Integrar el logo horizontal y el isologo suministrados en las ubicaciones de marca.
 - [x] Aplicar la paleta oficial: Azul noche #0B2D5C, Azul principal #1E6BC7, Azul claro #71A9E6, Azul niebla #DCEBFA y blanco #FFFFFF.
 - [x] Sustituir la combinación tipográfica por Avenir Next y Helvetica Neue, con alternativas web seguras.
