@@ -1,5 +1,13 @@
 # Revisión de identidad y dirección visual
 
+- [x] Copiar las imágenes y el video utilizados a una carpeta de recursos versionada.
+- [x] Documentar las copias versionadas y conservar las rutas publicadas para no afectar el despliegue.
+- [ ] Sincronizar los recursos audiovisuales completos con GitHub.
+
+- [x] Revisar por qué los recursos visuales y audiovisuales no aparecen en GitHub.
+
+- [ ] Copiar el proyecto completo a la carpeta Contador del equipo local.
+
 - [x] Exportar el proyecto final de Sinteconta a GitHub.
 
 - [x] Eliminar los rótulos redundantes de registro y mantener solo los nombres de sección.
