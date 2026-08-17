@@ -2,7 +2,7 @@
 
 - [x] Copiar las imágenes y el video utilizados a una carpeta de recursos versionada.
 - [x] Documentar las copias versionadas y conservar las rutas publicadas para no afectar el despliegue.
-- [ ] Sincronizar los recursos audiovisuales completos con GitHub.
+- [x] Sincronizar los recursos audiovisuales completos con GitHub.
 
 - [x] Revisar por qué los recursos visuales y audiovisuales no aparecen en GitHub.
 
